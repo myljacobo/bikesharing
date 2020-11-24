@@ -14,31 +14,31 @@ and the results are shown below in the images and the description below it.
 
 ### Visualizations from Tableau Story
 
-[visual](https://github.com/myljacobo/bikesharing/blob/main/images/1Checkout%20times%20for%20users.png?raw=true)
+![visual](https://github.com/myljacobo/bikesharing/blob/main/images/1Checkout%20times%20for%20users.png?raw=true)
 
 This graph above shows the length of time that bikes are checked out for all riders. 
 
-[visual](https://github.com/myljacobo/bikesharing/blob/main/images/2checkout%20times%20by%20gender.png?raw=true)
+![visual](https://github.com/myljacobo/bikesharing/blob/main/images/2checkout%20times%20by%20gender.png?raw=true)
 
 This graph above shows the length of time that bikes are checked out for each gender.
 
-[visual](https://github.com/myljacobo/bikesharing/blob/main/images/3trips%20by%20weekday%20for%20each%20hour.png?raw=true)
+![visual](https://github.com/myljacobo/bikesharing/blob/main/images/3trips%20by%20weekday%20for%20each%20hour.png?raw=true)
 
 This graph above shows the number of bike trips by weekday for each hour of the day as a heatmap.
 
-[visual](https://github.com/myljacobo/bikesharing/blob/main/images/4trips%20by%20gender%20wkdayperhour.png?raw=true)
+![visual](https://github.com/myljacobo/bikesharing/blob/main/images/4trips%20by%20gender%20wkdayperhour.png?raw=true)
 
 This graph above shows the number of bike trips by gender for each hour of each day of the week as a heatmap.
 
-[visual](https://github.com/myljacobo/bikesharing/blob/main/images/5trips%20by%20gender%20by%20wkday.png?raw=true)
+![visual](https://github.com/myljacobo/bikesharing/blob/main/images/5trips%20by%20gender%20by%20wkday.png?raw=true)
 
 This graph above shows the number of bike trips by gender for each hour for each day of the week as a heatmap.
 
-[visual](https://github.com/myljacobo/bikesharing/blob/main/images/6top%20starting%20locations.png?raw=true)
+![visual](https://github.com/myljacobo/bikesharing/blob/main/images/6top%20starting%20locations.png?raw=true)
 
 This graph above shows the top starting locations where each user initiates their bike ride.
 
-[visual](https://github.com/myljacobo/bikesharing/blob/main/images/7top%20ending%20locations.png?raw=true)
+![visual](https://github.com/myljacobo/bikesharing/blob/main/images/7top%20ending%20locations.png?raw=true)
 
 This graph above shows the top ending locations where each user ceases their bike ride.
 
